@@ -36,7 +36,6 @@ class NewVisitorTest(unittest.TestCase):
 
 #satisfied
 
-        #browser.quit()
 
 if __name__ == '__main__':
     unittest.main(warnings='ignore')
